@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import NavBar from "./NavbBar";
 
+
 export default function NasaPhoto() {
   const [photoData, setPhotoData] = useState(null);
 
@@ -46,7 +47,6 @@ export default function NasaPhoto() {
         <p className="explanation">{photoData.explanation}</p>
       </div>
     </div>
-    
     </>
   );
 }
