@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/APOD_React/static/css/main.ee2e6dbf.chunk.css",
+    "main.js": "/APOD_React/static/js/main.6845eb57.chunk.js",
+    "main.js.map": "/APOD_React/static/js/main.6845eb57.chunk.js.map",
+    "runtime-main.js": "/APOD_React/static/js/runtime-main.1c05a1f2.js",
+    "runtime-main.js.map": "/APOD_React/static/js/runtime-main.1c05a1f2.js.map",
+    "static/js/2.b3bbf06a.chunk.js": "/APOD_React/static/js/2.b3bbf06a.chunk.js",
+    "static/js/2.b3bbf06a.chunk.js.map": "/APOD_React/static/js/2.b3bbf06a.chunk.js.map",
+    "index.html": "/APOD_React/index.html",
+    "precache-manifest.153dbdc3d7d4df8286b9c6ca10ba413d.js": "/APOD_React/precache-manifest.153dbdc3d7d4df8286b9c6ca10ba413d.js",
+    "service-worker.js": "/APOD_React/service-worker.js",
+    "static/css/main.ee2e6dbf.chunk.css.map": "/APOD_React/static/css/main.ee2e6dbf.chunk.css.map",
+    "static/js/2.b3bbf06a.chunk.js.LICENSE.txt": "/APOD_React/static/js/2.b3bbf06a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c05a1f2.js",
+    "static/js/2.b3bbf06a.chunk.js",
+    "static/css/main.ee2e6dbf.chunk.css",
+    "static/js/main.6845eb57.chunk.js"
+  ]
+}
